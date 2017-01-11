@@ -1,5 +1,5 @@
-﻿GOALIE! The Discord bot for all your Rocket League celebratory music needs!'
-
+GOALIE! The Discord bot for all your Rocket League celebratory music needs!
+-------------------------------
 Version 1.3
 
 This bot will play a randomly selected .mp3 file in a discord channel whenever your team scores a goal in Rocket League.
@@ -40,7 +40,7 @@ Installation
 
 Known Bugs
 ------------------------------
-None
+Currently not working due to error with .NET Discord API
 
 Last Tested on Discord Build Dec 14th, 2016 and Rocket League Build 1508090
 
@@ -52,7 +52,7 @@ V 1.3
 Updated to handle Rocket League Update
 
 V 1.2
-Added Exception handler's for many common errors
+Added Exception handler for many common errors
 
 V 1.1
 Fixed issue where bot would stop working after one game
